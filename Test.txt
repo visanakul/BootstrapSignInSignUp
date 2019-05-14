@@ -2,3 +2,4 @@ Test file at git client
 
 
 Lat line
+New Last
